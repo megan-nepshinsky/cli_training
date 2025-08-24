@@ -10,8 +10,8 @@ into the reaches of space and explore new worlds!
 
 If you need help, remember your CLI commands:
 ```diff
-@@ cd @@ - changes directory 
-@@ ls @@ - lists the files and directories in the current directory 
+- cd - changes directory 
+- ls - lists the files and directories in the current directory 
 @@ pwd @@ - prints the current directory
 @@ mkdir @@ - make a new directory 
 @@ rmdir @@ - remove a directory 
