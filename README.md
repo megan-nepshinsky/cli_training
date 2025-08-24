@@ -27,3 +27,11 @@ If you need help, remember your CLI commands:
 <li> tail display the last 10 lines of a file </li>
 <li> help information on a command  </li>
 
+``diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+``
+
