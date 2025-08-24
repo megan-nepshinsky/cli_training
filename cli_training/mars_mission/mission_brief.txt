@@ -1,0 +1,17 @@
+Hello astronauts!
+
+Your mission today is navigating and editing some files in our system. 
+
+We have some new additions and some changes to make. 
+
+You will be navigating our file system and by the end of our session you will have:
+
+- A new directory titled new_mission_data
+- A file within the directory with:
+    - a fact about Mars from the mars_info_sheet.txt
+    - errors from the mission_log.txt
+    - data on soil composition from data_report.txt
+    - a step from the Mars mission path 
+    - a fact about the Apollo 11 mission
+   
+- A copy of the data report as a backup

@@ -1,0 +1,155 @@
+Data Report Parameters
+
+Atmospheric Measurements:
+Earth:
+Mostly Nitrogen, Oxygen
+
+Martian Expectation:
+Carbon Dioxide, Nitrogen
+
+Martian Actual:
+
+Liquid Water:
+Earth:
+71% of planet has liquid water
+
+Martian Expectation:
+Any water is frozen
+
+Martian Actual:
+
+Average Daytime Temperature:
+Earth:
+59 F, 15 C
+
+Martian Expectation:
+80 F, 27 C
+
+Martian Actual:
+
+Average Nighttime Temperature:
+Earth:
+59 F, 15 C
+
+Martian Expectation:
+-207 F, -133 C
+
+Martian Actual:
+
+Gravity:
+Earth:
+9.807 m/s- 100 lbs is 100 lbs
+
+Martian Expectation:
+3.73 m/s- 100 lbs is 38 lbs
+
+Martian Actual:
+
+Distance from Sun (Closest):
+Earth:
+91.5 million miles
+
+Martian Expectation:
+128.4 million miles
+
+Martian Actual:
+
+Distance from Sun (Farthest):
+Earth:
+94.5 million miles
+
+Martian Expectation:
+154.9 million miles
+
+Martian Actual:
+
+Molten Surface:
+Earth:
+Some molten lava present near volcanoes
+
+Martian Expectation:
+Molten lava, or magma, present beneath the surface
+
+Martian Actual:
+
+Active Life:
+Earth:
+Yes
+
+Martian Expectation:
+No
+
+Martian Actual:
+
+Fossilized Life:
+Earth:
+Yes
+
+Martian Expectation:
+No
+
+Martian Actual:
+
+Tallest Mountain (Measured from crust):
+Earth:
+Mauna Kea (33,476 feet)
+
+Martian Expectation:
+Olympus Mons (72,000 feet)
+
+Martian Actual:
+
+Soil:
+Earth:
+Minerals and organic matter broken down by erosion
+
+Martian Expectation:
+Basalt broken down by erosion
+
+Martian Actual:
+
+Seasons:
+Earth:
+Caused by Earth's tilt and orbit, 4 seasons of varied weather
+
+Martian Expectation:
+Caused by Mars' tilt and orbit, 4 seasons of varied weather
+
+Martian Actual:
+
+Moons:
+Earth:
+1 natural satellite- the Moon, or Luna
+
+Martian Expectation:
+2 natural satellites- Phobos and Deimos
+
+Martian Actual:
+
+Core:
+Earth:
+Solid inner core of iron and nickel, surrounded by a liquid outer core
+
+Martian Expectation:
+Liquid iron with other elements such as carbon
+
+Martian Actual:
+
+Circumference:
+Earth:
+24.901 miles
+
+Martian Expectation:
+13,262 miles
+
+Martian Actual:
+
+Diameter:
+Earth:
+7,907 miles
+
+Martian Expectation:
+4,212 miles
+
+Martian Actual:
+
