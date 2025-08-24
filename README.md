@@ -10,7 +10,7 @@ into the reaches of space and explore new worlds!
 
 If you need help, remember your CLI commands:
 
-<li> _cd_ changes directory </li>
+<li> __cd__ changes directory </li>
 ls lists the files and directories in the current directory
 pwd prints the current directory
 mkdir make a new directory
