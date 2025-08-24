@@ -9,9 +9,9 @@ Thank you for your willingness to branch out
 into the reaches of space and explore new worlds!
 
 If you need help, remember your CLI commands:
-
-<li> cd changes directory </li>
-<li> ls lists the files and directories in the current directory </li>
+```diff
+<li> @@cd -changes directory </li>
+<li> @@ls -lists the files and directories in the current directory </li>
 <li> pwd prints the current directory </li>
 <li> mkdir make a new directory </li>
 <li> rmdir remove a directory </li>
@@ -26,7 +26,7 @@ If you need help, remember your CLI commands:
 <li> head display the first 10 lines of a file </li>
 <li> tail display the last 10 lines of a file </li>
 <li> help information on a command  </li>
-
+```
 ```diff
 - text in red
 + text in green
