@@ -1,5 +1,5 @@
 # cli_training 💻
-This is the assignment for 1.04 for AP Networking. 
+This is the assignment for 1.05 for AP Networking. 
 
 # Here is the message from the space command leader 🚀: 
 
